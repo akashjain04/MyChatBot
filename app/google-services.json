@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445704723535",
+    "firebase_url": "https://mychatbot-bde2d.firebaseio.com",
+    "project_id": "mychatbot-bde2d",
+    "storage_bucket": "mychatbot-bde2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445704723535:android:b881cde96b31a4302e9e3a",
+        "android_client_info": {
+          "package_name": "com.example.mychatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445704723535-u7u91dj5ikm1u0onvqd0sm484924fjme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychatbot",
+            "certificate_hash": "22af22aaf2f09bd56a79ce1b068274c545e7fc0d"
+          }
+        },
+        {
+          "client_id": "445704723535-7ro6o7lt5aa35pj41qts4c9t6k69t2eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiY-4eUHlkCaDr9Z0yr16wEJQ5Q4Wgih4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445704723535-7ro6o7lt5aa35pj41qts4c9t6k69t2eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
