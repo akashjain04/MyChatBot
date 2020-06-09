@@ -25,12 +25,11 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
 
 ## Output Screenshots
 
-![Welcome screen](https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/welcome.png?raw=true "Welcome Screen")
 ![Registration](https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/registration.png?raw=true "Registration")
 ![login](https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/Login.png?raw=true)
 ![chatbot](https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/Chatbot.png?raw=true)
 ![feedback](https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/feedback.png?raw=true)
-![menu](https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/menu.png?raw=true)
+
 
 
 
